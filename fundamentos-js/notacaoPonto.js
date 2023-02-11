@@ -3,7 +3,7 @@ console.log(Math.ceil(6.1))
 function Colaborador(nome){
   var nome = nome
   this.sauda = function(){
-    console.log("Olá, galera!")
+    console.log("Olá, galera!");
   }
 }
 
